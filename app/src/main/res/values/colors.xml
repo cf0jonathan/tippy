@@ -1,0 +1,23 @@
+<resources>
+    <!-- Light theme colors (cool blues & teals) -->
+    <color name="primary">#0D47A1</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#BBDEFB</color>
+    <color name="onPrimaryContainer">#0D47A1</color>
+
+    <color name="secondary">#00ACC1</color>
+    <color name="onSecondary">#FFFFFF</color>
+
+    <color name="background">#E3F2FD</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+
+    <color name="onBackground">#0D1B2A</color>
+    <color name="onSurface">#0D1B2A</color>
+
+    <color name="surfaceVariant">#E1E8F9</color>
+    <color name="outline">#4D6FAF</color>
+    <!-- New colors for best and worst -->
+    <color name="colorWorst">#FF0000</color> <!-- Pure red -->
+    <color name="colorBest">#00FF00</color> <!-- Pure green -->
+</resources>
